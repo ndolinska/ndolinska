@@ -24,6 +24,6 @@ I am a **Python-proficient developer** currently expanding my expertise into **C
 - 🌱 **Learning:** **Java Spring Boot** and **.NET Core** fundamentals
 
 ---
-### 📫 Contact info
+### 📫 Contact Info
 - **LinkedIn:** [https://www.linkedin.com/in/nadia-dolinska-153793394/]
 - **Email:** [n_dolinska@wp.pl]
