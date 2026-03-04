@@ -1,7 +1,7 @@
 ## Hi there, I'm Nadia 👋
 
 ### 🚀 Aspiring Software Engineer & Lifelong Learner
-I am a **Python-enthusiastic IT student** currently expanding my expertise into **C#** and **Java**. My goal is to bridge the gap between core backend engineering and **Cloud Infrastructure**. I find inspiration in seeing my ideas evolve into something meaningful.
+I am a **2nd year IT student** currently expanding my expertise into **Java**. My strongest asset is my **Python** knowledge, with which I've been experimenting ever since I was fifteen. It reeled me in by showing how easy it is to make my ideas into something meaningful and real, with just lines of code. Now I try to expand into **Cloud Development**, to make my ideas even more tangible.
 
 ---
 
